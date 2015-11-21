@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signo_suma">+</string>
+    <string name="signo_resta">-</string>
+    <string name="signo_multi">*</string>
+    <string name="signo_divide">/</string>
+    <string name="title_activity_acerca_de">Acerca De</string>
+</resources>
